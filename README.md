@@ -49,42 +49,42 @@ Tested with AVer PTC310U and PTC310H cameras running firmware v0.0.0000.42
 Component originally written by Jason Foord (jf@tag.com.au) at TAG Austalia.
 
 Additional functions added by Glen Gorton (glen.gorton@gmail.com)
-o	‘Hybrid’ Tracking Mode now selectable.
-o	‘Video Freeze while Preset’ now selectable.
-o	‘Preset Speed’ now adjustable.
-o	‘Zoom Speed’ corrected to be ‘High / Low’ choices.
-o	‘Digital Zoom’ on/off toggle added.
-o	‘Digital Zoom Limit’ (2-12x zoom) added.
-o	‘MCU Firmware Version’ and ‘Lens Firmware Version’ info added.
-o	‘Relative Zoom Ratio’ now selectable.
-o	‘Preset Affects PTZ & Focus Values Only’ now selectable.
-o	‘Status OSD’ on/off now selectable.
-o	‘Power On To Preset’ and ‘Power Up To Preset’ now selectable.
-o	‘Preset Accuracy’ now selectable (firmware v0.0.0000.42)
-o	‘Language’ selection now selectable.
-o	‘Reboot’ trigger added.
-o	‘Power Frequency’ now selectable.
-o	‘Video Priority Mode’ now selectable.
-o	‘Video Output Resolution’ now selectable.
-o	‘Video Mode’ now selectable.
-o	‘Stream Video Output’ resolution now selectable.
-o	‘Stream Bitrate’ now adjustable.
-o	‘Stream Encoding Type’ now selectable.
-o	‘Stream Framerate’ now adjustable.
-o	‘Stream I-VOP Interval’ now adjustable.
-o	‘Stream Rate Control’ now adjustable.
-o	‘Audio Input Type’ now selectable.
-o	‘Audio Encoding Type’ added if further options (other than AAC become available - see Notes)
-o	‘Audio Volume’ now adjustable.
-o	‘Audio Sampling Rate’ now adjustable.
-o	‘Hostname’ now visible and modifiable.
-o	‘DHCP’ status now visible.
-o	‘White Balance Mode’, ‘R Gain’ ‘B Gain’, ‘One Push Set’ selectable/adjustable.
-o	‘Saturation’, ‘Contrast’, ‘Sharpness’ now adjustable.
-o	‘Noise Filter’, ‘Image Mirror’, ‘Image Flip’ now adjustable.
-o	‘Exposure Mode’, ‘Slow Shutter’, ‘WDR’ now selectable.
-o	‘Exposure Value’, Shutter Speed’, Iris Level’, ‘Gain Level’, ‘Gain Limit Level’, ‘BLC’ now adjustable.
-o	‘Tracking Sensitivity’, ‘Tracking Idle Time’, ‘Effective Tracking Area’, ‘People Size’, ‘Tracking Auto Zoom’, ‘Tracking Auto Tilt’ now adjustable.
-o	‘RTMP Server URL’, ‘RTMP Stream Key’, ‘RTMP Stream Status’, ‘RTMP Start/Stop Stream’ config added. Testing required.
-o	‘RTSP Security’ can now be toggled.
-o	‘SRT Destination IP’, ‘SRT Port’, ‘SRT Latency’, ‘SRT Encryption’, ‘SRT Passphrase’, ‘SRT Connection Status’, ‘SRT Start/Stop Stream’ config added.
+- ‘Hybrid’ Tracking Mode now selectable.
+- ‘Video Freeze while Preset’ now selectable.
+- ‘Preset Speed’ now adjustable.
+- ‘Zoom Speed’ corrected to be ‘High / Low’ choices.
+- ‘Digital Zoom’ on/off toggle added.
+- ‘Digital Zoom Limit’ (2-12x zoom) added.
+- ‘MCU Firmware Version’ and ‘Lens Firmware Version’ info added.
+- ‘Relative Zoom Ratio’ now selectable.
+- ‘Preset Affects PTZ & Focus Values Only’ now selectable.
+- ‘Status OSD’ on/off now selectable.
+- ‘Power On To Preset’ and ‘Power Up To Preset’ now selectable.
+- ‘Preset Accuracy’ now selectable (firmware v0.0.0000.42)
+- ‘Language’ selection now selectable.
+- ‘Reboot’ trigger added.
+- ‘Power Frequency’ now selectable.
+- ‘Video Priority Mode’ now selectable.
+- ‘Video Output Resolution’ now selectable.
+- ‘Video Mode’ now selectable.
+- ‘Stream Video Output’ resolution now selectable.
+- ‘Stream Bitrate’ now adjustable.
+- ‘Stream Encoding Type’ now selectable.
+- ‘Stream Framerate’ now adjustable.
+- ‘Stream I-VOP Interval’ now adjustable.
+- ‘Stream Rate Control’ now adjustable.
+- ‘Audio Input Type’ now selectable.
+- ‘Audio Encoding Type’ added if further options (other than AAC become available - see Notes)
+- ‘Audio Volume’ now adjustable.
+- ‘Audio Sampling Rate’ now adjustable.
+- ‘Hostname’ now visible and modifiable.
+- ‘DHCP’ status now visible.
+- ‘White Balance Mode’, ‘R Gain’ ‘B Gain’, ‘One Push Set’ selectable/adjustable.
+- ‘Saturation’, ‘Contrast’, ‘Sharpness’ now adjustable.
+- ‘Noise Filter’, ‘Image Mirror’, ‘Image Flip’ now adjustable.
+- ‘Exposure Mode’, ‘Slow Shutter’, ‘WDR’ now selectable.
+- ‘Exposure Value’, Shutter Speed’, Iris Level’, ‘Gain Level’, ‘Gain Limit Level’, ‘BLC’ now adjustable.
+- ‘Tracking Sensitivity’, ‘Tracking Idle Time’, ‘Effective Tracking Area’, ‘People Size’, ‘Tracking Auto Zoom’, ‘Tracking Auto Tilt’ now adjustable.
+- ‘RTMP Server URL’, ‘RTMP Stream Key’, ‘RTMP Stream Status’, ‘RTMP Start/Stop Stream’ config added. Testing required.
+- ‘RTSP Security’ can now be toggled.
+- ‘SRT Destination IP’, ‘SRT Port’, ‘SRT Latency’, ‘SRT Encryption’, ‘SRT Passphrase’, ‘SRT Connection Status’, ‘SRT Start/Stop Stream’ config added.
