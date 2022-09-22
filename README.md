@@ -6,7 +6,7 @@
 - Have NOT added any of the 'Sleep Timer' functions on the System page as these are only available when video streaming is USB Only.
 
 
-- 17th August 2022 - Glen Gorton
+### 17th August 2022 - Glen Gorton
 Updated for AVer PTC310U and PTC310H cameras running firmware v0.0.0000.45
 Additional functions added by Glen Gorton (glen.gorton@gmail.com)
 
@@ -25,7 +25,7 @@ Added to Poll() function that uses "Get=":
 - 'NDI Multicast TTL' integer knob. (1 to 255)
 
 
-- 24th June 2022 - Jason Foord
+### 24th June 2022 - Jason Foord
 - Change 'Sync' terminology to 'Poll'
 - Refactored EventHandlers to start pollDelay Timer instead of Poll directly - fixes rapid calling of Poll function when spamming eventhandlers.
 - StartPollDelay() function starts the pollDelay Timer
@@ -33,7 +33,7 @@ Added to Poll() function that uses "Get=":
 - Changed HttpDownload timeout from 2s to 5s
 
 
-- 7th June 2022
+### 7th June 2022
 Updated for AVer PTC310U and PTC310H cameras running firmware v0.0.0000.43
 Additional functions added by Glen Gorton (glen.gorton@gmail.com)
 
@@ -44,7 +44,7 @@ Additional functions added by Glen Gorton (glen.gorton@gmail.com)
 - 'Auto Focus Mode' selection added. (Continuous AF, or AF Trigger After PTZ)
 
 
-- 20th May 2022
+### 20th May 2022
 Tested with AVer PTC310U and PTC310H cameras running firmware v0.0.0000.42
 Component originally written by Jason Foord (jf@tag.com.au) at TAG Austalia.
 
