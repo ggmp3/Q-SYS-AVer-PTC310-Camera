@@ -1,9 +1,9 @@
 # Q-SYS-AVer-PTC310-Camera
 
 
-- NOTES:
-    - Audio Encoding Type control has been included (combo box) but only one option is available (AAC) for visibility. The camera does not have any set/get request to modify this. Only AAC is available for encoding audio.
-    - Have NOT added any of the 'Sleep Timer' functions on the System page as these are only available when video streaming is USB Only.
+## NOTES:
+- Audio Encoding Type control has been included (combo box) but only one option is available (AAC) for visibility. The camera does not have any set/get request to modify this. Only AAC is available for encoding audio.
+- Have NOT added any of the 'Sleep Timer' functions on the System page as these are only available when video streaming is USB Only.
 
 
 - 17th August 2022 - Glen Gorton
