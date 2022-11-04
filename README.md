@@ -6,13 +6,13 @@
 - Have NOT added any of the 'Sleep Timer' functions on the System page as these are only available when video streaming is USB Only.
 
 ### 4th November 2022 - Glen Gorton
-Modified some of the string.match patterns in order to be more inclusive. eg. string.match(data, 'sys_fw_version="(.-)"&') replaces string.match(data, 'sys_fw_version="([%w.]+)"&')
+Modified some of the string.match patterns in order to be more inclusive. eg. string.match(data, 'sys_fw_version="(.-)"&') replaces string.match(data, 'sys_fw_version="([%w.]+)"&')  
 Added Controls to the Text_Indicators so they reset when script restarts: All SRT controls, Tracking Mode, Focus Near Limit, Auto Focus Mode, Zoom Speed, Exposure Mode, White Balance Mode, Noise Filter, RTMP Stream Status,
 Video Priority Mode, Power Frequency, Video Output Resolution, Video Mode, Stream Video Output, Stream Bitrate, Stream Encoding Type, Stream Framerate, Stream Rate Control, Audio Input Type, Audio Encoding Type,
 Audio Sampling Rate, People Size, Language, Power On To Preset, Power Off To Preset, Focus Mode.
 
 ### 17th August 2022 - Glen Gorton
-Updated for AVer PTC310U and PTC310H cameras running firmware v0.0.0000.45
+Updated for AVer PTC310U and PTC310H cameras running firmware v0.0.0000.45  
 Additional functions added by Glen Gorton (glen.gorton@gmail.com)
 
 Added to GetUnitInfoNetwork() function that uses "GetString=":
